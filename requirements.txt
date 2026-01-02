@@ -1,0 +1,7 @@
+pytz
+meteostat
+pandas
+numpy
+matplotlib
+statsmodels
+scikit-learn
